@@ -62,6 +62,8 @@ body{
   word-break:normal;
   padding-right: 200px;
   margin-left: 20px;
+   display: flex;
+  align-items: center;
 }
 
 #inicio {
