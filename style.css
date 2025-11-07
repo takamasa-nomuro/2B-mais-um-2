@@ -62,7 +62,7 @@ body{
   word-break:normal;
   padding-right: 200px;
   margin-left: 20px;
-   display: flex;
+  display: flex;
   align-items: center;
 }
 
