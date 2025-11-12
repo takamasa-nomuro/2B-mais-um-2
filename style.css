@@ -38,10 +38,10 @@ h1{
   font-weight:bolder;
   color: #0a0a0a;
   font-size: 50px;
+
 }
 h2{
   display: flex;
-  align-items: center;
   flex-direction: row;
   justify-content: center; 
   font-family: sans-serif;
@@ -49,6 +49,7 @@ h2{
   color: white;
   font-size: 30px;
   margin: 25px;
+  text-align: left;
 }
 
 body{
@@ -63,7 +64,7 @@ body{
   padding-right: 200px;
   margin-left: 20px;
   display: flex;
-  align-items: center;
+  text-align: center;
 }
 
 #inicio {
