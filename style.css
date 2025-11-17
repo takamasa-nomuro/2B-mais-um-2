@@ -95,3 +95,8 @@ body{
   margin: 30px;
   text-align: center;
 }
+
+#video video{
+  display: block;
+  margin-left: 0;
+}
